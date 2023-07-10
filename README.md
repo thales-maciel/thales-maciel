@@ -1,4 +1,14 @@
-### Hi there 👋
+- I like ducks
+
+- I value building stuff
+
+- Following advice blindly is bad
+
+- Questioning is good
+
+- Complex is bad
+  
+- Simple is good
 
 <!--
 **thales-maciel/thales-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
