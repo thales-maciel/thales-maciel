@@ -10,6 +10,8 @@
   
 - Simple is good
 
+[more here](https://thalesmaciel.com)
+
 <!--
 **thales-maciel/thales-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
